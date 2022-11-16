@@ -42,5 +42,7 @@
 
 [plantuml, post, png]
 ----
-include::post.puml[]
+include::post.puml[Назад]
 ----
+
+xref:../index.adoc[Назад]
