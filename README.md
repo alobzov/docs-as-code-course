@@ -1,3 +1,4 @@
+[![Publish to GitHub Pages](https://github.com/alobzov/docs-as-code-course/actions/workflows/publish.yml/badge.svg)](https://github.com/alobzov/docs-as-code-course/actions/workflows/publish.yml)
 [![Hits-of-Code](https://hitsofcode.com/github/alobzov/docs-as-code-course?branch=main&label=Hits-of-Code)](https://hitsofcode.com/github/alobzov/docs-as-code-course/view?branch=main&label=Hits-of-Code)
 [![My Telegram](https://img.shields.io/badge/Telegram-contact-active?logo=telegram)](https://t.me/alobzov)
 [![My Habr](https://img.shields.io/badge/Habr-read-active?logo=habr)](https://habr.com/users/alobzov)
